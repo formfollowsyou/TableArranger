@@ -1,0 +1,7 @@
+node_modules
+.cache
+logs
+*.log
+npm-debug.log*
+*.code-workspace
+temp

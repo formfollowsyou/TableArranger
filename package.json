@@ -1,0 +1,30 @@
+{
+  "name": "covid-react",
+  "version": "0.0.1",
+  "description": "Testing Covid Plan Generator with React and Matter JS",
+  "main": "index.js",
+  "author": "Martin D.",
+  "license": "MIT",
+  "dependencies": {
+    "@ant-design/icons": "^4.2.1",
+    "antd": "^4.3.4",
+    "fontsource-roboto": "^2.1.4",
+    "immer": "^6.0.9",
+    "matter-js": "^0.14.2",
+    "matter-wrap": "^0.2.0",
+    "poly-decomp": "^0.3.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "src": "^1.1.2",
+    "zustand": "^2.2.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-react": "^7.9.4",
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
