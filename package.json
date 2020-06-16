@@ -26,6 +26,6 @@
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel index.html --public-url TableArranger"
+    "build": "parcel index.html --public-url './'"
   }
 }
