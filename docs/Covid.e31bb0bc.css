@@ -7,8 +7,8 @@
   src:
     local('Roboto Thin'),
     local('Roboto-Thin'), 
-    url('%27./%27/roboto-latin-100-normal.cb619c79.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-100-normal.5ea2647b.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-100-normal.cb619c79.woff2') format('woff2'), 
+    url('roboto-latin-100-normal.5ea2647b.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-latin-100-italic*/
 @font-face {
@@ -19,8 +19,8 @@
   src:
     local('Roboto Thin Italic'),
     local('Roboto-ThinItalic'), 
-    url('%27./%27/roboto-latin-100-italic.f973c242.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-100-italic.dc4aadb9.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-100-italic.f973c242.woff2') format('woff2'), 
+    url('roboto-latin-100-italic.dc4aadb9.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-latin-300-normal*/
 @font-face {
@@ -31,8 +31,8 @@
   src:
     local('Roboto Light'),
     local('Roboto-Light'), 
-    url('%27./%27/roboto-latin-300-normal.f220d8a0.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-300-normal.2784e8c6.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-300-normal.f220d8a0.woff2') format('woff2'), 
+    url('roboto-latin-300-normal.2784e8c6.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-latin-300-italic*/
 @font-face {
@@ -43,8 +43,8 @@
   src:
     local('Roboto Light Italic'),
     local('Roboto-LightItalic'), 
-    url('%27./%27/roboto-latin-300-italic.fcd72cca.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-300-italic.43261fda.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-300-italic.fcd72cca.woff2') format('woff2'), 
+    url('roboto-latin-300-italic.43261fda.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-latin-400-normal*/
 @font-face {
@@ -55,8 +55,8 @@
   src:
     local('Roboto'),
     local('Roboto-Regular'), 
-    url('%27./%27/roboto-latin-400-normal.1981adc7.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-400-normal.8ff68b73.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-400-normal.1981adc7.woff2') format('woff2'), 
+    url('roboto-latin-400-normal.8ff68b73.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-latin-400-italic*/
 @font-face {
@@ -67,8 +67,8 @@
   src:
     local('Roboto Italic'),
     local('Roboto-Italic'), 
-    url('%27./%27/roboto-latin-400-italic.e4e209f1.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-400-italic.bc28c5cf.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-400-italic.e4e209f1.woff2') format('woff2'), 
+    url('roboto-latin-400-italic.bc28c5cf.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-latin-500-normal*/
 @font-face {
@@ -79,8 +79,8 @@
   src:
     local('Roboto Medium'),
     local('Roboto-Medium'), 
-    url('%27./%27/roboto-latin-500-normal.750f5167.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-500-normal.e175d426.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-500-normal.750f5167.woff2') format('woff2'), 
+    url('roboto-latin-500-normal.e175d426.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-latin-500-italic*/
 @font-face {
@@ -91,8 +91,8 @@
   src:
     local('Roboto Medium Italic'),
     local('Roboto-MediumItalic'), 
-    url('%27./%27/roboto-latin-500-italic.813c3bfc.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-500-italic.996368a6.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-500-italic.813c3bfc.woff2') format('woff2'), 
+    url('roboto-latin-500-italic.996368a6.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-latin-700-normal*/
 @font-face {
@@ -103,8 +103,8 @@
   src:
     local('Roboto Bold'),
     local('Roboto-Bold'), 
-    url('%27./%27/roboto-latin-700-normal.ed2cd677.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-700-normal.df33b4fa.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-700-normal.ed2cd677.woff2') format('woff2'), 
+    url('roboto-latin-700-normal.df33b4fa.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-latin-700-italic*/
 @font-face {
@@ -115,8 +115,8 @@
   src:
     local('Roboto Bold Italic'),
     local('Roboto-BoldItalic'), 
-    url('%27./%27/roboto-latin-700-italic.95569383.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-700-italic.13b8aa73.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-700-italic.95569383.woff2') format('woff2'), 
+    url('roboto-latin-700-italic.13b8aa73.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-latin-900-normal*/
 @font-face {
@@ -127,8 +127,8 @@
   src:
     local('Roboto Black'),
     local('Roboto-Black'), 
-    url('%27./%27/roboto-latin-900-normal.42548398.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-900-normal.f45163fe.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-900-normal.42548398.woff2') format('woff2'), 
+    url('roboto-latin-900-normal.f45163fe.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-latin-900-italic*/
 @font-face {
@@ -139,8 +139,8 @@
   src:
     local('Roboto Black Italic'),
     local('Roboto-BlackItalic'), 
-    url('%27./%27/roboto-latin-900-italic.314f8ad8.woff2') format('woff2'), 
-    url('%27./%27/roboto-latin-900-italic.7582d8c3.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('roboto-latin-900-italic.314f8ad8.woff2') format('woff2'), 
+    url('roboto-latin-900-italic.7582d8c3.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 /*!
@@ -28218,4 +28218,4 @@ div.ant-typography-edit-content.ant-typography-rtl {
 
 
 
-/*# sourceMappingURL=%27./%27/Covid.e31bb0bc.css.map */
+/*# sourceMappingURL=Covid.e31bb0bc.css.map */
