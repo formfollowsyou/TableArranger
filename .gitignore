@@ -1,5 +1,6 @@
 node_modules
 .cache
+dist
 logs
 *.log
 npm-debug.log*
